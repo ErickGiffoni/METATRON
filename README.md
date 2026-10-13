@@ -121,6 +121,7 @@ brew install nmap whois curl nikto mysql
 ```
 
 > Install whatweb from [source](https://github.com/urbanadventurer/WhatWeb/wiki/Installation)
+
 > Install bind as substitute for dnsutils
 
 ```bash
